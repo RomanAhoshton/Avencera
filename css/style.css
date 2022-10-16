@@ -1234,5 +1234,4 @@ input:focus::placeholder {
 }
 .inputs input {
   border: none;
-  border-bottom: 2px solid;
 }
