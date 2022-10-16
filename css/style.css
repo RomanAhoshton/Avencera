@@ -186,7 +186,7 @@
 
   .list_menu.active::before {
     content: "";
-    background: url(/image/img-avancera-logo.svg);
+    background: url(image/img-avancera-logo.svg);
     width: 114px;
     display: block;
     position: relative;
@@ -1231,4 +1231,8 @@ input:focus::placeholder {
     margin-right: 0;
     margin-bottom: 30px;
   }
+}
+.inputs input {
+  border: none;
+  border-bottom: 2px solid;
 }
